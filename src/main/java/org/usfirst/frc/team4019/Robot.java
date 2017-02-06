@@ -29,6 +29,7 @@ class TalonGroup {
 
 class ControlStick {
 	Joystick joystick;
+	asdf
 	ControlStick(int port) {
 		this.joystick = new Joystick(port);
 	}
